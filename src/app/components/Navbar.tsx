@@ -8,6 +8,7 @@ export default function Navbar() {
             </div>
             <div className="ml-auto flex gap-8">
                 <a href="/" className="text-[#1e160a] text-md hover:text-[#5c4420] hover:underline transition duration-300">characters</a>
+                <a href="/" className="text-[#1e160a] text-md hover:text-[#5c4420] hover:underline transition duration-300">quotes</a>
                 <a href="/" className="text-[#1e160a] text-md hover:text-[#5c4420] hover:underline transition duration-300">the world</a>
                 <a href="/" className="text-[#1e160a] text-md hover:text-[#5c4420] hover:underline transition duration-300">episodes</a>
                 <a href="/" className="text-[#1e160a] text-md hover:text-[#5c4420] hover:underline transition duration-300">gallery</a>
